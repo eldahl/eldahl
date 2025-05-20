@@ -1,6 +1,6 @@
 <!-- Profile README for eldahl -->
 
-<h1 align="center">Hi, I'm eldahl 👋</h1>
+<h1 align="center">Hi, I'm Esben 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Learn%20%F0%9F%93%9A-blueviolet" />
   <img src="https://img.shields.io/badge/Loves-Building%20and%20Fixing-ff7f50" />
